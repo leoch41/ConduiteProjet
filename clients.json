@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"projet"},
+{"type":"table","name":"clients","database":"projet","data":
+	[
+	{"id":"0","nom":"paul","matiere":"[francais,maths]"},
+	{"id":"1","nom":"sam","matiere":"[]"},
+	{"id":"2","nom":"robin","matiere":"[tout]"},
+	{"id":"3","nom":"mia","matiere":"[géo,optimisation,sport]"}
+	]
+}
+{"type":"table","name":"tuteurs","database":"projet","data":
+	[
+	{"id":"0","nom":"j2m","matiere":"[maths]"},
+	{"id":"1","nom":"eric","matiere":"[maths,info,geo]"},
+	{"id":"2","nom":"lan","matiere":"[info]"},
+	]
+}
+]
